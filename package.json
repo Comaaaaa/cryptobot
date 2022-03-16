@@ -1,0 +1,17 @@
+{
+  "name": "crypto-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that fetches cryptocurreny prices and news",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cxoma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.5.1",
+    "express": "^4.17.1"
+  }
+}
